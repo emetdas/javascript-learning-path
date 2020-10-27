@@ -21,4 +21,4 @@ switch (furit) {
     default:
         console.log("you not buy any thing");
 }
-
+// switch stetment use two and or value 
