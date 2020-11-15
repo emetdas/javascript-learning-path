@@ -21,3 +21,6 @@ val = Math.max(10,2,10,1,-9);
 val = Math.random() * 20;
 val = Math.floor(Math.random() * 20);
 console.log(val);
+
+
+to i'm back agine
